@@ -1,4 +1,11 @@
+# Welcome Home!
+
+This guide will hopefully help answer any questions in our somewhat high-tech household.
+
+# Table of Contents
+
 - [Welcome Home!](#welcome-home)
+- [Table of Contents](#table-of-contents)
 - [Outside](#outside)
   - [Neighborhood](#neighborhood)
   - [Doors, Gates, Locks](#doors-gates-locks)
@@ -24,9 +31,6 @@
 - [Dogs](#dogs)
   - [Bowser](#bowser)
   - [Peach](#peach)
-# Welcome Home!
-
-This guide will hopefully help answer any questions in our somewhat high-tech household.
 
 # Outside
 
