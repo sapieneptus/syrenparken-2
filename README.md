@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome Home!
 
-You can use the [editor on GitHub](https://github.com/sapieneptus/syrenparken-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This guide will hopefully help answer any questions in our somewhat high-tech household.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+- [Welcome Home!](#welcome-home)
+  - [Doors, Gates, Locks](#doors-gates-locks)
+  - [Lights](#lights)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Doors, Gates, Locks
 
-```markdown
-Syntax highlighted code block
+Info about locking and unlocking our various ports.
 
-# Header 1
-## Header 2
-### Header 3
+- [House Doors](./doors.md#doors)
+- [Garage Doors](./doors.md#garage-doors)
+- [Gate](./doors.md#gate)
+- [Shed doors](./doors.md#shed-doors)
 
-- Bulleted
-- List
+## Lights
 
-1. Numbered
-2. List
+Most of our lights are Hue lights. There are a few things to know to get the most out of them.
 
-**Bold** and _Italic_ and `Code` text
+- [Info about our light switches](./lights.md#manual-control)
+- [How to connect to our lights](./lights.md#app)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sapieneptus/syrenparken-2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
