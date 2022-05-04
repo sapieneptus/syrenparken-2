@@ -1,10 +1,10 @@
-- [Hue Bridges](#hue-bridges)
+- [Hue System](#hue-system)
   - [Manual Control](#manual-control)
     - [App](#app)
     - [Wall Switches](#wall-switches)
   - [Automatic Schedule](#automatic-schedule)
 
-## Hue Bridges
+## Hue System
 
 The majority of lights in the main house are [Hue Lights](https://www.philips-hue.com/en-us). Note that, because of the high number of lights,
 we have a separate Downstairs bridge and an Upstairs bridge. The only noteworthy exceptions are the upstairs hallway lights and the lights in the
@@ -42,3 +42,5 @@ The lights are set to automatically turn off at midnight if they're still on (th
 The lights will begin fading on between 7:30-8:00 in the morning.
 
 You can adjust this schedule in the app, if you prefer.
+
+Note that the lights around the property (on the walls and outdoors) will automatically turn on at night, but they are not Hue lights and there is no direct way to control them.

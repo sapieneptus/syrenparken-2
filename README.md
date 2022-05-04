@@ -2,15 +2,17 @@
 - [Outside](#outside)
   - [Neighborhood](#neighborhood)
   - [Doors, Gates, Locks](#doors-gates-locks)
-  - [Trash](#trash)
+  - [Trash Pickup](#trash-pickup)
   - [Hot Tub](#hot-tub)
   - [BBQ](#bbq)
   - [Lawn Mowers](#lawn-mowers)
 - [Inside](#inside)
   - [Internet / Wifi](#internet--wifi)
   - [Tablets](#tablets)
+  - [Heating](#heating)
   - [Kitchen](#kitchen)
     - [Coffee Machine](#coffee-machine)
+    - [Exhaust Fan](#exhaust-fan)
   - [Lights](#lights)
   - [Music System](#music-system)
   - [Sauna](#sauna)
@@ -18,6 +20,7 @@
   - [TVs](#tvs)
   - [Projector](#projector)
   - [Fuse Box](#fuse-box)
+  - [Trash sorting](#trash-sorting)
 - [Dogs](#dogs)
   - [Bowser](#bowser)
   - [Peach](#peach)
@@ -44,11 +47,16 @@ Info about locking and unlocking our various ports.
 - [Gate](./doors.md#gate)
 - [Shed doors](./doors.md#shed-doors)
 
-## Trash
+The property is completely enclosed by walls, gates, and fences - this makes it safe for the dogs to run around without escaping.
+Additionally, we've fenced off an area of "backyard" within our yard where the dogs can go outside in a more controlled environment for convenience.
+
+## Trash Pickup
+TODO - schedule
 
 ## Hot Tub
 
 TODO
+
 ## BBQ
 
 TODO
@@ -65,10 +73,22 @@ TODO
 
 TODO
 
+## Heating
+
+The ground floor has floor heating installed in every room. Upstairs there is floor heating in the Game Room and the bathroom.
+The other rooms have an area heater with a dial directly on the device for control. 
+
+TODO: Photo of heating controls
+
 ## Kitchen
 ### Coffee Machine
 
 TODO
+
+### Exhaust Fan
+
+TODO
+
 ## Lights
 
 Most of our lights are Hue lights. There are a few things to know to get the most out of them.
@@ -98,7 +118,13 @@ TODO
 
 TODO
 
+## Trash sorting
+
+TODO
+
 # Dogs
+
+TODO: Common info (food & water habits, 'backyard')
 
 ## Bowser
 
