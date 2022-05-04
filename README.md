@@ -4,8 +4,17 @@ This guide will hopefully help answer any questions in our somewhat high-tech ho
 
 
 - [Welcome Home!](#welcome-home)
+- [Neighborhood](#neighborhood)
   - [Doors, Gates, Locks](#doors-gates-locks)
   - [Lights](#lights)
+
+# Neighborhood
+
+Syrenparken is a fairly quiet street with mostly small families and some middle-aged inhabitants. It is a safe and peaceful place.
+
+Snejbjerg is a suberb of Herning city with enough shops/supermarkets to supplies. It is also on the edge of farmland so there are agricultural supplies as well.
+
+Many restaurants in Herning wil gladly deliver to Snejbjerg, including pizza, burgers, sushi, and even bubble tea. Herning is about 5 kilometers east and can be reached by public transit (bus).
 
 ## Doors, Gates, Locks
 
