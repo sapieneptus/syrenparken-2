@@ -15,9 +15,6 @@ Our doors are fairly normal, but please take note of the following:
 ## Gate
 
 The gate is on a motor and is remote-controlled. Pressing the 'A' button once will open or close it. It is a bit slow.
-
-TODO: Photo
-
 There is a button near the physical gate motor, but currently it doesn't work.
 
 If necessary, you can detach the gate arms by releasing the pin-lock at the arm attachment (see photo). Please use caution when doing this!
@@ -26,8 +23,6 @@ If necessary, you can detach the gate arms by releasing the pin-lock at the arm 
 
 The Garage Doors are opened using a remote ("1" is the left door, "2" is the right door).
 We rarely use the door on the right, and it sometimes doesn't stay closed when using the remote. Both doors have manual controls as well. 
-
-TODO: Photo
 
 ## Shed Doors
 

@@ -16,13 +16,9 @@ rec room.
 
 You can connect to the light system by installing the Hue app and connecting to our bridges. 
 
-The downstairs bridge is located in the utility closet. Be _very careful_ when moving things on the shelf, as it can easily fall.
+[!image](images/hue-bridge.jpg)
 
-
-
-The upstairs bridge is near the electrical box.
-
-
+The downstairs bridge is located in the utility closet. Be _very careful_ when moving things on the shelf, as it can easily fall. The upstairs bridge is near the electrical box.
 
 If you'd prefer not to install the app, you're welcome to utilize one of the wall tablets to control them. They both have the app installed and are connected to our bridges.
 
