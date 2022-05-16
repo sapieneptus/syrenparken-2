@@ -55,27 +55,52 @@ The property is completely enclosed by walls, gates, and fences - this makes it 
 Additionally, we've fenced off an area of "backyard" within our yard where the dogs can go outside in a more controlled environment for convenience.
 
 ## Trash Pickup
-TODO - schedule
+
+Trash ("restaffald" and "mad") is collected every two weeks on Thursday Morning.
+Recycling (the other bin) is collected every four weeks at the same time.
+
+Remember to leave the gate open the night before so the trash crew can access the bins.
 
 ## Hot Tub
 
-TODO
+The tub is labeled and fairly self explanatory. The main thing to take note of is that the safety drainage can not keep up with water flow, so it is up to you to watch the tub and ensure it doesn't overflow.
 
 ## BBQ
 
-TODO
+This is a gas-powered grill with 4 burners (though we've only ever used 3 of them).
+
+Ensure the gas connector is securely fastened to the gas cannister (the flow valve won't open if it isn't).
+Open the flow valve, hold down the ignition button on the grill (it will click repeatedly) and turn on the ranges. In my experience it can take 5-10 seconds to light.
+
+The range dials would make you think you can adjust the heat continuously between high and low. In practice, almost all positions of the dial will result in very high heat (except when it's close to off, around the 3:00 position).
+
 ## Lawn Mowers
 
-TODO
+The Lawn Mowers run nightly and are automatic. While they don't require any techincal maintenance, they will often end up stuck in a ditch or corner. If you find them stuck somwhere in the morning, please bring them back to their chargers and turn them on (you'll receive the pin code in a DM from us).
 
 # Inside
 
 ## Internet / Wifi
 
-TODO
+Our network is DontPeek, and there is a 5g and 2.4g variant (the latter is called "DontPeek (slowbro edition)". It's not actually slower in my experience). 
+All of the smart devices are on the 2.4g network (slowbro), so I recommend using the 5g if possible to avoid crowding the bandwidth. 
+
+The house uses Fiber internet. The Fiber and Router are in the utility closet at the top. 
+
+**Please be careful with the shelf - it is very easy to make it fall** and annoying to untangle the cables when it does. Try not to touch the shelf directly if possible.
+
 ## Tablets
 
-TODO
+There are two tablets installed in the house: one at the root of the stairs, and one outside of the fusebox alcove.
+
+These are both fully functional tablets - you can use them to browse the internet or watch videos if you want. The reason they are mounted on the walls
+is because they have the essential house apps already installed and configured:
+
+- Hue to control the lights (each tablet already set to the right floor)
+- Ecovacs to control the vacuums
+- Sonos to control the music (each tablet already set to a reasonable set of speakers)
+
+You can double tap the tablets to wake them. They aren't the fastest to wake so you may need to try a few times.
 
 ## Heating
 
@@ -87,11 +112,19 @@ TODO: Photo of heating controls
 ## Kitchen
 ### Coffee Machine
 
-TODO
+To refill beans or water, press the 'eject' button and pull the machine out. The water reservoire is on the left and the bean reservoire is on the top.
+
+The machine is quite intuitive except when making milk-based drinks (lattes etc.). There are several things to keep in mind:
+
+- You need to use the milk reservoire (normally in the fridge)
+- Use 1.5% milk ("letmælk")
+- Smell the milk before making a latte - it goes bad faster in the reservoire for some reason
+- If the milk is going bad, the cream on the latte will take on a chalky consistency. You'll notice right away - but you can also avoid this by smelling the milk before use.
+- Clean the milk hose before use - it gets clogged almost after every use. Do this by squeezing the hose and pushing debris out of the end
 
 ### Exhaust Fan
 
-TODO
+When frying, please use the exhaust fan. There is a button on the very right side - hold this for a few seconds and the fan will open. Hold it again to close.
 
 ## Lights
 
@@ -102,33 +135,57 @@ Most of our lights are Hue lights. There are a few things to know to get the mos
 
 ## Music System
 
-TODO
+There are Sonos speakers installed in many rooms. You can connect to them and control them via the Sonos app, or just use the tablets on the walls.
 
 ## Sauna
 
-TODO
+There are two dials on the Sauna Oven: Time and Heat. The Time dial is a countdown timer which turns the Sauna on. The Heat dial controls the heat - but note that the max heat is near the 6:00 position despite what the label says. 
+
+The Sauna doesn't get terribly hot (only 50-60°C max), but with enough humidity you'll certainly sweat. Use the bucket and spoon to pour water gently on the rocks as they heat up. **Do not touch the rocks** - "hot" is an understatement.
 
 ## Vacuums
 
-TODO
+We have two robot vacuums: Wooster (downstairs) and Mrs. Piggleswurt (upstairs). They run daily at 15:30 and their cycle time
+will vary dramatically depending on which doors you leave open (it can be anywhere from 30 minutes to several hours).
+
+They can get clogged if they run over e.g. dog toys or loose clothing articles - you can pick them up and clear out any debris, then press the button to restart them.
+
+You are welcome to alter or disable their schedule, however we _highly_ recommend they run daily as the dogs otherwise produce a ton of fur and lint.
+
+**Make sure there is no dog poop on the floor when they're running**. We've lost a vacuum that way. It's a rare occurrence that either dog will poo inside the house, but it's very important to be sure the house is clear of dog poo when the vacuums are running (part of the reason they run at 15:30 is because we found accidents are more likely to happen in the morning or early afternoon).
+
 ## TVs
 
-TODO
+There are many TVs in the house. All of the following have chromecast (so you can cast from your phone):
+
+- Guest Room
+- Crafting Room
+- Main Bedroom
+- Living Room
+
+The Spa bathroom has an Amazon Firestick (the TV and Firestick remotes are next to the tub).
+
+The TV in the main living room is extremely heavy. Though it seems securely mounted, we would advise caution to avoid bumping it if possible (there also shouldn't be a reason to touch it directly, as it has exposed HDMI cables via the cable closet and can be controlled via remote).
+
 ## Projector
 
-TODO
+The projector takes a moment to warm up and works best in darker environments. 
+
+Please note that the projector is connected to an HDMI matrix in order to route the sound to a Sonos system. The HDMI matrix is a bit complex to configure, so best to avoid pressing any buttons on it or its remote, if possible.
 
 ## Fuse Box
 
-TODO
+The fuses are only partially labelled - feel free to shut down the mains (bottom switches) if there is a problem.
+Note that there is one switch which seems to control the entire outside and part of the upstairs circuit. It hasn't been a problem, but it's an odd design choice.
 
 ## Trash sorting
 
-TODO
+In Denmark recycling is quite detailed. In our house bins we separate Paper+Cardboard, Plastic+Metal, Glass, General Trash, and Compost.
+There is a bag for the latter under the sink (because of the odor) and a compostor in the back yard.
 
 # Dogs
 
-TODO: Common info (food & water habits, 'backyard')
+Both Dogs 
 
 ## Bowser
 
