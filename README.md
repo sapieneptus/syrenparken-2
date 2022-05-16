@@ -14,6 +14,7 @@ This guide will hopefully help answer any questions in our somewhat high-tech ho
   - [BBQ](#bbq)
   - [Lawn Mowers](#lawn-mowers)
 - [Inside](#inside)
+  - [Security System](#security-system)
   - [Internet / Wifi](#internet--wifi)
   - [Tablets](#tablets)
   - [Heating](#heating)
@@ -86,6 +87,23 @@ The Lawn Mowers run nightly and are automatic. While they don't require any tech
 ![Image](images/lawn-mower.jpg)
 
 # Inside
+
+## Security System
+
+The house is protected by a Verisure security system. There are door/window sensors as well as motion cameras.
+Note: the motion cameras are _not_ live feeds: they only snap photos if motion is detected while the system is armed.
+
+To arm the security system (e.g. when leaving the house):
+
+1. Make sure all windows and doors are closed (including the garage door).
+2. Tap the fob against the security panel
+3. Press the "away" button. 
+4. Tap the fob against the panel again to confirm. The panel will start beeping.
+5. You have ~30 seconds to close the door. 
+
+When re-entering the house, just tap the fob to deactive the alarm.
+
+![image](images/security.jpg)
 
 ## Internet / Wifi
 
