@@ -228,7 +228,7 @@ In terms of playing, he most enjoys cardboard boxes (in fact, it's pretty much t
 
 He enjoys treats but isn't great with crunchy/large treats. He will on occassion vomit after consuming too quickly (true of both treats, food, and water).
 
-Bowser can develop anxiety if ignored for too long. In severe cases, he'll start to chew on anything nearby: walls, furniture, even electrical cables (he's chewed through a few live cables). Ideal t
+Bowser can develop anxiety if ignored for too long. In severe cases, he'll start to chew on anything nearby: walls, furniture, even electrical cables (he's chewed through a few live cables). Ideally, try to check in with him throughout the day - especially if he starts barking.
 
 ### Special Needs
 
