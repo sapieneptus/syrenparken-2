@@ -32,6 +32,7 @@ This guide will hopefully help answer any questions in our somewhat high-tech ho
   - [Bowser](#bowser)
     - [Special Needs](#special-needs)
   - [Peach](#peach)
+    - [Special Needs](#special-needs-1)
 
 # Outside
 
@@ -206,7 +207,9 @@ There is a bag for the latter under the sink (because of the odor) and a compost
 
 The dog food is in the rec room closet. They are good at self-regulating their feed, so please just keep the food and water bowls full. The water bowl will need to be washed a few times a day (ideally whenever refilling) as Bowser kind of slobbers into it while he's drinking from it. They can share a water bowl but keep separate food bowls.
 
-Both dogs know "Sit", "Down", "Stay", "Speak" and "Paw". Peach is more likely to respond when she can see a treat.
+Both dogs know "Sit", "Down", "Stay", "Speak" and "Paw". Peach is more likely to respond when she can see a treat. They are happy to eat human scraps in addition to their dog treats, but remember to avoid dog toxins (chocolate, blueberries). They both enjoy cheese a lot.
+
+Both dogs awakend between 8 and 10, and are asleep around midnight. 
 
 ## Bowser
 
@@ -225,13 +228,14 @@ In terms of playing, he most enjoys cardboard boxes (in fact, it's pretty much t
 
 He enjoys treats but isn't great with crunchy/large treats. He will on occassion vomit after consuming too quickly (true of both treats, food, and water).
 
+Bowser can develop anxiety if ignored for too long. In severe cases, he'll start to chew on anything nearby: walls, furniture, even electrical cables (he's chewed through a few live cables). Ideal t
 
 ### Special Needs
 
 As an English bulldog, Bowser has a lot of wrinkles and needs more cleaning. You can use a wet wipe to clean between his wrinkles and toes.
-He is prone to licking his paws to the point of redness and should be scolded when you catch him doing this (you can snap your fingers or clap to discourage him).
+He is prone to licking his paws to the point of redness and should be scolded when you catch him doing this (you can snap your fingers or clap to discourage him). Note that his paws are very sensitive when they get tender and he may snap at you if you apply any pressure to a tender spot - best to avoid him licking in the first place. We have an oil to help discourage him.
 
-His ears (particularly his left) tends to get waxy and can use cleaning via cutip ("vatpinde" in danish) once every few days.
+His ears (particularly his left) tends to get waxy and can use cleaning via cutip ("vatpinde" in danish) once every few days. He also has a wart growing on his face - we're giving it some time to subside, but in the meanwhile it can benefit from cleaning (via wet wipe or shower).
 
 He dislikes showers but will tolerate them and needs them ideally 2x/week.
 
@@ -250,3 +254,8 @@ Peach is still in the late puppy-phase and is very excitable. She's a bit jealou
 
 She needs to go out several times a day and may indicate by whining or standing near the door, but she doesn't have a lot of patience and can hav accidents if not let out regularly.
 
+She's otherwise a very normal dog; likes to play with dog toys, chase things, play tug of war etc.
+
+### Special Needs
+
+Peach is quite healthy and doesn't have any special medical needs. She has a kennel in the rec room in case she gets too hyper or for sleeping at night (to avoid early morning accidents). We try to avoid it during the day unless necessary.
