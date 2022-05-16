@@ -16,7 +16,7 @@ rec room.
 
 You can connect to the light system by installing the Hue app and connecting to our bridges. 
 
-[!image](images/hue-bridge.jpg)
+![image](images/hue-bridge.jpg)
 
 The downstairs bridge is located in the utility closet. Be _very careful_ when moving things on the shelf, as it can easily fall. The upstairs bridge is near the electrical box.
 
@@ -26,7 +26,7 @@ If you'd prefer not to install the app, you're welcome to utilize one of the wal
 
 You'll notice many areas of the house have two light switches: Hue switches and non-hue switches.
 
-[!image](images/hue-lights.jpg)
+![image](images/hue-lights.jpg)
 
 The non-hue switches are the ones that controll power to the lights, and the Hue switches control whether they're on or off (as well as color temperature settings).
 

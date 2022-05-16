@@ -95,7 +95,7 @@ The house uses Fiber internet. The Fiber and Router are in the utility closet at
 
 **Please be careful with the shelf - it is very easy to make it fall** and annoying to untangle the cables when it does. Try not to touch the shelf directly if possible.
 
-[!image](images/utility-closet.jpg)
+![image](images/utility-closet.jpg)
 
 ## Tablets
 
@@ -115,7 +115,7 @@ You can double tap the tablets to wake them. They aren't the fastest to wake so 
 The ground floor has floor heating installed in every room. Upstairs there is floor heating in the Game Room and the bathroom.
 The other rooms have an area heater with a dial directly on the device for control. 
 
-[!image](images/thermostats.jpg)
+![image](images/thermostats.jpg)
 
 ## Kitchen
 ### Coffee Machine
@@ -123,7 +123,7 @@ The other rooms have an area heater with a dial directly on the device for contr
 To refill beans or water, press the 'eject' button and pull the machine out. The water reservoire is on the left and the bean reservoire is on the top.
 **Note that you may need to press it again before pushing the machine back in**.
 
-[!image](images/coffee-machine.jpg)
+![image](images/coffee-machine.jpg)
 
 The machine is quite intuitive except when making milk-based drinks (lattes etc.). There are several things to keep in mind:
 
@@ -133,13 +133,13 @@ The machine is quite intuitive except when making milk-based drinks (lattes etc.
 - If the milk is going bad, the cream on the latte will take on a chalky consistency. You'll notice right away - but you can also avoid this by smelling the milk before use.
 - Clean the milk hose before use - it gets clogged almost after every use. Do this by squeezing the hose and pushing debris out of the end
 
-[!image](images/coffee-milk.jpg)
+![image](images/coffee-milk.jpg)
 
 ### Exhaust Fan
 
 When frying, please use the exhaust fan. There is a button on the very right side - hold this for a few seconds and the fan will open. Hold it again to close.
 
-[!image](images/exhaust-fan.jpg)
+![image](images/exhaust-fan.jpg)
 
 ## Lights
 
@@ -156,7 +156,7 @@ There are Sonos speakers installed in many rooms. You can connect to them and co
 
 There are two dials on the Sauna Oven: Time and Heat. The Time dial is a countdown timer which turns the Sauna on. The Heat dial controls the heat - but note that the max heat is near the 6:00 position despite what the label says. 
 
-[!image](images/sauna.jpg)
+![image](images/sauna.jpg)
 
 The Sauna doesn't get terribly hot (only 50-60°C max), but with enough humidity you'll certainly sweat. Use the bucket and spoon to pour water gently on the rocks as they heat up. **Do not touch the rocks** - "hot" is an understatement.
 
@@ -195,7 +195,7 @@ Please note that the projector is connected to an HDMI matrix in order to route 
 The fuses are only partially labelled - feel free to shut down the mains (bottom switches) if there is a problem.
 Note that there is one switch which seems to control the entire outside and part of the upstairs circuit. It hasn't been a problem, but it's an odd design choice.
 
-[!image](images/fuse-box.jpg)
+![image](images/fuse-box.jpg)
 
 ## Trash sorting
 
@@ -210,7 +210,7 @@ Both dogs know "Sit", "Down", "Stay", "Speak" and "Paw". Peach is more likely to
 
 ## Bowser
 
-[!image](images/bowser.jpg)
+![image](images/bowser.jpg)
 
 |||
 |-|-|
@@ -237,7 +237,7 @@ He dislikes showers but will tolerate them and needs them ideally 2x/week.
 
 ## Peach
 
-[!image](images/peach.jpg)
+![image](images/peach.jpg)
 
 |||
 |-|-|
