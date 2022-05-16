@@ -89,9 +89,9 @@ The Lawn Mowers run nightly and are automatic. While they don't require any tech
 ## Internet / Wifi
 
 Our network is DontPeek, and there is a 5g and 2.4g variant (the latter is called "DontPeek (slowbro edition)". It's not actually slower in my experience). 
-All of the smart devices are on the 2.4g network (slowbro), so I recommend using the 5g if possible to avoid crowding the bandwidth. 
+All of the smart devices are on the 2.4g network (slowbro), so I recommend using the 5g if possible to avoid crowding the bandwidth.
 
-The house uses Fiber internet. The Fiber and Router are in the utility closet at the top. 
+The house uses Fiber internet. The Fiber and Router are in the utility closet at the top. There are wifi extenders around the house.
 
 **Please be careful with the shelf - it is very easy to make it fall** and annoying to untangle the cables when it does. Try not to touch the shelf directly if possible.
 
@@ -121,18 +121,19 @@ The other rooms have an area heater with a dial directly on the device for contr
 ### Coffee Machine
 
 To refill beans or water, press the 'eject' button and pull the machine out. The water reservoire is on the left and the bean reservoire is on the top.
+**Note that you may need to press it again before pushing the machine back in**.
 
 [!image](images/coffee-machine.jpg)
 
 The machine is quite intuitive except when making milk-based drinks (lattes etc.). There are several things to keep in mind:
-
-[!image](images/coffee-milk.jpg)
 
 - You need to use the milk reservoire (normally in the fridge)
 - Use 1.5% milk ("letmælk")
 - Smell the milk before making a latte - it goes bad faster in the reservoire for some reason
 - If the milk is going bad, the cream on the latte will take on a chalky consistency. You'll notice right away - but you can also avoid this by smelling the milk before use.
 - Clean the milk hose before use - it gets clogged almost after every use. Do this by squeezing the hose and pushing debris out of the end
+
+[!image](images/coffee-milk.jpg)
 
 ### Exhaust Fan
 
@@ -203,9 +204,7 @@ There is a bag for the latter under the sink (because of the odor) and a compost
 
 # Dogs
 
-The dog food is in the rec room closet. They are good at self-regulating their feed, so please just keep the food and water bowls full. The water bowl will need to be washed a few times a day as Bowser kind of slobbers into it while he's drinking from it.
-
-They can share a water bowl but keep separate food bowls.
+The dog food is in the rec room closet. They are good at self-regulating their feed, so please just keep the food and water bowls full. The water bowl will need to be washed a few times a day (ideally whenever refilling) as Bowser kind of slobbers into it while he's drinking from it. They can share a water bowl but keep separate food bowls.
 
 Both dogs know "Sit", "Down", "Stay", "Speak" and "Paw". Peach is more likely to respond when she can see a treat.
 
@@ -219,6 +218,13 @@ Both dogs know "Sit", "Down", "Stay", "Speak" and "Paw". Peach is more likely to
 |Age|4 years|
 |Gender|Male|
 |Demeanor|Passive, Attention-oriented|
+
+Bowser is a fairly typical bulldog: sleepy most of the time, loud snoring and snorting, and short bursts of energy throughout the day. He'll bark at the door when he needs to go out or if he wants to play/go for a walk (or if he sees anything large moving, like the hammock). His walks should be kept fairly short so as not to overheat him.
+
+In terms of playing, he most enjoys cardboard boxes (in fact, it's pretty much the only thing he plays with). He'll tear boxes apart and play tug of war with Peach. He will also get very excited at certain sounds: the rattling of dice, the jingling of keys, and the air hockey puck.
+
+He enjoys treats but isn't great with crunchy/large treats. He will on occassion vomit after consuming too quickly (true of both treats, food, and water).
+
 
 ### Special Needs
 
@@ -239,3 +245,8 @@ He dislikes showers but will tolerate them and needs them ideally 2x/week.
 |Age|11 Months|
 |Gender|Female|
 |Demeanor|Energetic, Jealous, Food-oriented|
+
+Peach is still in the late puppy-phase and is very excitable. She's a bit jealous and will try to steal treats and attention away from Bowser. She has some guard-dog instincts and will bark at noises, neighbors or other movement outside - you can tell she's in 'guard mode' when the fur on her back stands up. She doesn't become aggressive beyond barking and will often transition to excitement (which sometimes leads to peeing by accident). When coming home from an outing, it's best to let her out immediately as does pee from excitement. 
+
+She needs to go out several times a day and may indicate by whining or standing near the door, but she doesn't have a lot of patience and can hav accidents if not let out regularly.
+
