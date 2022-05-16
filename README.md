@@ -30,6 +30,7 @@ This guide will hopefully help answer any questions in our somewhat high-tech ho
   - [Trash sorting](#trash-sorting)
 - [Dogs](#dogs)
   - [Bowser](#bowser)
+    - [Special Needs](#special-needs)
   - [Peach](#peach)
 
 # Outside
@@ -70,6 +71,9 @@ The tub is labeled and fairly self explanatory. The main thing to take note of i
 This is a gas-powered grill with 4 burners (though we've only ever used 3 of them).
 
 Ensure the gas connector is securely fastened to the gas cannister (the flow valve won't open if it isn't).
+
+![Image](images/bbq-gas.jpg)
+
 Open the flow valve, hold down the ignition button on the grill (it will click repeatedly) and turn on the ranges. In my experience it can take 5-10 seconds to light.
 
 The range dials would make you think you can adjust the heat continuously between high and low. In practice, almost all positions of the dial will result in very high heat (except when it's close to off, around the 3:00 position).
@@ -77,6 +81,8 @@ The range dials would make you think you can adjust the heat continuously betwee
 ## Lawn Mowers
 
 The Lawn Mowers run nightly and are automatic. While they don't require any techincal maintenance, they will often end up stuck in a ditch or corner. If you find them stuck somwhere in the morning, please bring them back to their chargers and turn them on (you'll receive the pin code in a DM from us).
+
+![Image](images/lawn-mower.jpg)
 
 # Inside
 
@@ -88,6 +94,8 @@ All of the smart devices are on the 2.4g network (slowbro), so I recommend using
 The house uses Fiber internet. The Fiber and Router are in the utility closet at the top. 
 
 **Please be careful with the shelf - it is very easy to make it fall** and annoying to untangle the cables when it does. Try not to touch the shelf directly if possible.
+
+[!image](images/utility-closet.jpg)
 
 ## Tablets
 
@@ -107,14 +115,18 @@ You can double tap the tablets to wake them. They aren't the fastest to wake so 
 The ground floor has floor heating installed in every room. Upstairs there is floor heating in the Game Room and the bathroom.
 The other rooms have an area heater with a dial directly on the device for control. 
 
-TODO: Photo of heating controls
+[!image](images/thermostats.jpg)
 
 ## Kitchen
 ### Coffee Machine
 
 To refill beans or water, press the 'eject' button and pull the machine out. The water reservoire is on the left and the bean reservoire is on the top.
 
+[!image](images/coffee-machine.jpg)
+
 The machine is quite intuitive except when making milk-based drinks (lattes etc.). There are several things to keep in mind:
+
+[!image](images/coffee-milk.jpg)
 
 - You need to use the milk reservoire (normally in the fridge)
 - Use 1.5% milk ("letmælk")
@@ -125,6 +137,8 @@ The machine is quite intuitive except when making milk-based drinks (lattes etc.
 ### Exhaust Fan
 
 When frying, please use the exhaust fan. There is a button on the very right side - hold this for a few seconds and the fan will open. Hold it again to close.
+
+[!image](images/exhaust-fan.jpg)
 
 ## Lights
 
@@ -140,6 +154,8 @@ There are Sonos speakers installed in many rooms. You can connect to them and co
 ## Sauna
 
 There are two dials on the Sauna Oven: Time and Heat. The Time dial is a countdown timer which turns the Sauna on. The Heat dial controls the heat - but note that the max heat is near the 6:00 position despite what the label says. 
+
+[!image](images/sauna.jpg)
 
 The Sauna doesn't get terribly hot (only 50-60°C max), but with enough humidity you'll certainly sweat. Use the bucket and spoon to pour water gently on the rocks as they heat up. **Do not touch the rocks** - "hot" is an understatement.
 
@@ -178,6 +194,8 @@ Please note that the projector is connected to an HDMI matrix in order to route 
 The fuses are only partially labelled - feel free to shut down the mains (bottom switches) if there is a problem.
 Note that there is one switch which seems to control the entire outside and part of the upstairs circuit. It hasn't been a problem, but it's an odd design choice.
 
+[!image](images/fuse-box.jpg)
+
 ## Trash sorting
 
 In Denmark recycling is quite detailed. In our house bins we separate Paper+Cardboard, Plastic+Metal, Glass, General Trash, and Compost.
@@ -185,12 +203,39 @@ There is a bag for the latter under the sink (because of the odor) and a compost
 
 # Dogs
 
-Both Dogs 
+The dog food is in the rec room closet. They are good at self-regulating their feed, so please just keep the food and water bowls full. The water bowl will need to be washed a few times a day as Bowser kind of slobbers into it while he's drinking from it.
+
+They can share a water bowl but keep separate food bowls.
+
+Both dogs know "Sit", "Down", "Stay", "Speak" and "Paw". Peach is more likely to respond when she can see a treat.
 
 ## Bowser
 
-TODO
+[!image](images/bowser.jpg)
+
+|||
+|-|-|
+|Breed|English Bulldog|
+|Age|4 years|
+|Gender|Male|
+|Demeanor|Passive, Attention-oriented|
+
+### Special Needs
+
+As an English bulldog, Bowser has a lot of wrinkles and needs more cleaning. You can use a wet wipe to clean between his wrinkles and toes.
+He is prone to licking his paws to the point of redness and should be scolded when you catch him doing this (you can snap your fingers or clap to discourage him).
+
+His ears (particularly his left) tends to get waxy and can use cleaning via cutip ("vatpinde" in danish) once every few days.
+
+He dislikes showers but will tolerate them and needs them ideally 2x/week.
 
 ## Peach
 
-TODO
+[!image](images/peach.jpg)
+
+|||
+|-|-|
+|Breed|Olde English Bulldogge|
+|Age|11 Months|
+|Gender|Female|
+|Demeanor|Energetic, Jealous, Food-oriented|
