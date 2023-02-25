@@ -1,16 +1,9 @@
 #!/usr/bin/env bash
 set -e
 
-if [ $# -lt 1 ]; then
-  echo "Please provide a commit message"
-  echo "./save [my commit message]"
-  exit 1
-fi
-
-
 echo "Saving files"
 git add -A > /dev/null || true
-git commit -am $1 > /dev/null || true
+git commit -am "update" > /dev/null || true
 
 echo "Pushing to GitHub"
 git push 2> /dev/null
