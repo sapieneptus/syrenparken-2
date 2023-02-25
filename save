@@ -9,8 +9,8 @@ fi
 
 
 echo "Saving files"
-git add -A
-git commit -am $1
+git add -A  || true
+git commit -am $1  || true
 
 echo "Pushing to GitHub"
 git push
