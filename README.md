@@ -74,8 +74,6 @@ This is a gas-powered grill with 4 burners (though we've only ever used 3 of the
 
 Ensure the gas connector is securely fastened to the gas cannister (the flow valve won't open if it isn't).
 
-MOO
-
 ![Image](images/bbq-gas.jpg)
 
 Open the flow valve, hold down the ignition button on the grill (it will click repeatedly) and turn on the ranges. In my experience it can take 5-10 seconds to light.
