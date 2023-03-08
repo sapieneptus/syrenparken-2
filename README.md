@@ -312,6 +312,8 @@ There is no food waste disposal in the sinks.  You will need to place any unfini
 
 # Dogs
 
+Our dogs are extremely loving and only want to be your friend.  They do not bite; they are just aggressive lovers.  They want to give you all their attention; in return, they want your attention with belly rubs and pets. Bowser is the brown short one and Peach is the bigger long tail dog.  They are named after the Super Mario Characters: Bowser, and Princess Peach Toadstool respectively.
+
 The dog food is in the left side of the Rec Room closet.  If any of the bowls are empty between waking hours and 10p.m. or 22:00, go ahead and refill it.  After 10 p.m./ 22:00, do not refill the water or the food bowl.  Other than stopping feeding at 10 p.m./ 22:00, they are generally good at eating when they are hungry.  Both dogs share their bowls and the same type of dog food.
 
 Both dogs are sloppy when it comes to drinking from the water bowl, so please be mindful of your step.  On that note, before giving them water, you might want to rinse the bowl to remove any excess saliva.  Both water bowls can remove the bowl portion from the base to for easy access.
@@ -364,13 +366,10 @@ He dislikes showers but will tolerate them and needs them ideally 2x/week.
 |Gender|Female|
 |Demeanor|Energetic, Jealous/envious, mischevious, Food-oriented|
 
-Peach is still in the late puppy-phase and is very excitable. She's a bit jealous and will try to steal treats and attention away from Bowser. She has some guard-dog instincts and will bark at noises, neighbors or other movement outside - you can tell she's in 'guard mode' when the fur on her back stands up. She doesn't become aggressive beyond barking and will often transition to excitement (which sometimes leads to peeing by accident). When coming home from an outing, it's best to let her out immediately as does pee from excitement. 
+Peach is a very normal dog compared to her sibling, Bowser.  She loves attention and gets jealous of Bowser easily.  Peach loves to be with people and is very curious. She tends to have more energy than Bowser and wants to be wherever the people are.  You need to be careful as she will be too excited and urinate herself because of said excitement.
 
-She needs to go out several times a day and may indicate by whining or standing near the door, but she doesn't have a lot of patience and can hav accidents if not let out regularly.
+Peach does pay attention to any unfamiliar sounds and will go into alert guard mode: she will bark and fur will stand on her lower back. But she does not bite.  She does bark at any movement from our neighbors.  She does not mean to harm them, but just as a way of wanting to get their attention and play with them.
 
-She's otherwise a very normal dog; likes to play with dog toys, chase things, play tug of war etc.
-
-Peach is a very normal dog compared to her sibling, Bowser.  She loves attention and gets jealous of Bowser easily.  Peach loves to be with people and is very curious. 
 So if you bring something out that you do not want her to have, make sure to keep it out of reach.  If she does get something she should not have, and you chase her; she will treat it as a game and play keep away.  In order to avoid this from happening you can do something to praise Bowser and pretend to give him a treat.  She should come around and sit.  We usually throw the treat in the opposite direction of the item, and Peach should go running after it then you can retrieve your item.
 
 Peach usually needs to potty more than Bowser, you can let her outside from the back door or the front door. If she hasn't been let out in a while, she will whine and let you know.
