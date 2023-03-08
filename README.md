@@ -14,6 +14,7 @@ This guide will hopefully help answer any questions in our somewhat high-tech ho
   - [BBQ](#bbq)
   - [Lawn Mowers](#lawn-mowers)
 - [Inside](#inside)
+  - [Google Home](#google-home)
   - [Security System](#security-system)
   - [Internet / Wifi](#internet--wifi)
   - [Tablets](#tablets)
@@ -88,6 +89,32 @@ The Lawn Mowers run nightly and are automatic. While they don't require any tech
 ![Image](images/lawn-mower.jpg)
 
 # Inside
+
+
+## Google Home
+
+You can use the Google home devices located in the Spa and the downstairs living room to do the following:
+- Open the gate/ Close the gate
+Say the following command: Okay Google, open gate opener.
+
+- Check the time
+Say the following command: Okay Google, what time is it?
+
+- Check the weather
+Say the following command: Okay Google, what is today's weather forecast?
+Say the following command: Okay Google, what is the forecast for the week?
+
+- Playing something on Youtube on a TV
+Say the following command: Okay Google, chromecast 'something you want to watch'(example: MarK Rober Glitter Bomb) to Living room tv (the television of choice, do check down the document to see which tvs can do this or click here to skip forward to the [tv](#tvs) list).
+
+- Turn on a tv with chromecast
+Say the following command: Okay Google, turn on ..(living room tv or guest room ).. tv
+This only works for two tvs.
+
+- Learn the animal of the day
+Say the following command: Okay Google, what is today's animal of the day?
+
+Google Home can answer pretty simple questions if you start with OKAY GOOGLE.
 
 ## Security System
 
@@ -236,13 +263,14 @@ The last knob is for controlling the temperature of the water.  The last knob is
 ## Vacuums
 
 We have three robot vacuums located in the house: one in the kitchen, downstairs living room, and the upstairs hallway.
-The downstairs robots run at 9:00am in the morning. They should complete their cleaning cycle around 30-45 minutes.
+The downstairs robots run at 9:00am in the morning. They should complete their cleaning cycle around 30-45 minutes.  Be sure to keep the living room doors closed so the robots stay in their designated areas.
+The upstairs robot runs at 2:30p.m./14:30. We usually try to keep the doors closed upstairs so it just cleans the hallway. 
 
 They can get clogged if they run over e.g. dog toys or loose clothing articles - you can pick them up and clear out any debris, then press the power button to restart them.
 
 The kitchen robot needs to have the water refilled before it runs in the morning in order to mop the floors.
 
-**Make sure there is no dog poop on the floor when they're running**. We've lost a vacuum that way. It's a rare occurrence that either dog will poo inside the house, but it's very important to be sure the house is clear of dog poo when the vacuums are running (part of the reason they run at 15:30 is because we found accidents are more likely to happen in the morning or early afternoon).
+**Make sure there is no dog poop on the floor when they're running**. We've lost a vacuum that way. It's a rare occurrence that either dog will poo inside the house, but it's very important to be sure the house is clear of dog poo when the vacuums are running.
 
 ## TVs
 
@@ -252,10 +280,15 @@ There are many TVs in the house. All of the following have chromecast (so you ca
 - Crafting Room
 - Main Bedroom
 - Living Room
-
-The Spa bathroom has an Amazon Firestick (the TV and Firestick remotes are next to the tub).
+- Spa
+- Nursery
+- Upstairs projector
 
 The TV in the main living room is extremely heavy. Though it seems securely mounted, we would advise caution to avoid bumping it if possible (there also shouldn't be a reason to touch it directly, as it has exposed HDMI cables via the cable closet and can be controlled via remote).
+
+If you cannot turn on the tv,s it is most likely that the black outlet containing their powercord has been turned off. Most of the outlets in the house has a switch, which can easily be mistaken for a light switch.
+The ON position is if the top part of the switch is outward.
+In addtion you can turn off the living room and guest room tvs with the [Google Home](#google-home) devices located in the Spa and Living Room. 
 
 ## Projector
 
