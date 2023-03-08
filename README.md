@@ -377,6 +377,7 @@ Peach usually needs to potty more than Bowser, you can let her outside from the 
 If you need her attention just say, *mmmmm. Good boy Bowser, have a treat.* Then show her a treat and pretend to give to Bowser.  She should come right away.
 
 Peach loves playing with toys and after a while, she will come with a toy to play with you.  If you do not play with her, she will proceed to grab a different toy until you play with her.  At the end of the day, return all the toys back to her gray woven bag so that the vacuum will not get stuck on them.
+
 ### Special Needs
 
 Peach is quite healthy and doesn't have any special medical needs. She has a kennel in the rec room in case she gets too hyper or for sleeping at night (to avoid early morning accidents). We try to avoid it during the day unless necessary.
